@@ -1,6 +1,3 @@
-Aqui está o README.md completo para o projeto de listagem de arquivos por tamanho:
-
-```markdown
 # File Size Lister 📁📊
 
 Uma aplicação Java que lista arquivos de um diretório ordenados por tamanho em megabytes (MB).
