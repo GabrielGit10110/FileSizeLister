@@ -145,4 +145,3 @@ Projeto acadêmico para demonstração de manipulação de arquivos e algoritmos
 ---
 
 **Nota**: A aplicação lista apenas arquivos (não inclui subdiretórios) e ordena por tamanho em ordem crescente.
-```
